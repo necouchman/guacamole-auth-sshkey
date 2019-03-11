@@ -1,3 +1,4 @@
-# Guacamole Authentication Template
-This repository holds a working template for an authentication extension
-for the Guacamole Client.
+# Guacamole SSH Key Authentication Extension
+This is an extension for Guacamole that stores per-user
+SSH keys by decorating existing User objects and storing
+the keys in an underlying database.
