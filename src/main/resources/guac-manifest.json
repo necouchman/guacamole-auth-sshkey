@@ -1,0 +1,11 @@
+{
+    "guacamoleVersion" : "1.0.0",
+
+    "name"             : "SSH Key Guacamole Authentication Extension",
+    "namespace"        : "sshkey",
+
+    "authProviders"    : [
+        "org.apache.guacamole.auth.sshkey.SSHKeyAuthenticationProvider"
+    ]
+
+}

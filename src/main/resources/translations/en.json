@@ -1,0 +1,12 @@
+{
+    "DATA_SOURCE_SSHKEY" : {
+        "name" : "SSH Key Storage Extension"
+    },
+    
+    "USER_ATTRIBUTES" : {
+        "FIELD_HEADER_PRIVATE_SSH_KEY"            : "Private SSH Key",
+        "FIELD_HEADER_PRIVATE_SSH_KEY_PASSPHRASE" : "Private SSH Key Passphrase",
+        
+        "SECTION_HEADER_SSH_KEY_FORM" : "SSH Key Form"
+    }
+}
